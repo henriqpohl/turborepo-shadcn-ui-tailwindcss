@@ -1,13 +1,34 @@
-# Turborepo starter
+[![image](https://res.cloudinary.com/dvgb6dadg/image/upload/v1707008177/turborepo-tailwindcss-shadcn-ui/cover-turborepo-project_ccvm77.png)](https://github.com/henriqpohl/turborepo-shadcn-ui-tailwindcss.git)
 
-This is an official starter Turborepo.
+# Turborepo starter with Shadcn/UI & Tailwind CSS
+
+![Static Badge](https://img.shields.io/badge/turborepo-1.11.1-orangered?logo=turborepo&link=https%3A%2F%2Fgithub.com%2Fvercel%2Fturbo%2Freleases%2Ftag%2Fv1.11.1)
+![Static Badge](https://img.shields.io/badge/yarn-1.22.21-blue?logo=yarn&link=https%3A%2F%2Fyarnpkg.com%2Fadvanced%2Fchangelog)
+![GitHub repo size](https://img.shields.io/github/repo-size/henriqpohl/turborepo-shadcn-ui-tailwindcss?color=SeaGreen)
+![GitHub Release](https://img.shields.io/github/v/release/henriqpohl/turborepo-shadcn-ui-tailwindcss?color=darksea)
+
+Turborepo starter with Shadcn/UI & Tailwind CSS pre-configured for shared UI components powered by:
+
+- [Turborepo](https://turborepo.org/)
+- [Shadcn/UI](https://ui.shadcn.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+> [!NOTE]
+> This example uses `yarn` as package manager.
 
 ## Using this example
 
-Run the following command:
+Clone the repository:
 
 ```sh
-npx create-turbo@latest
+git clone https://github.com/henriqpohl/turborepo-shadcn-ui-tailwindcss.git
+```
+
+Install dependencies:
+
+```sh
+cd turborepo-shadcn-ui-tailwindcss
+yarn install
 ```
 
 ## What's inside?
@@ -18,7 +39,7 @@ This Turborepo includes the following packages/apps:
 
 - `docs`: a [Next.js](https://nextjs.org/) app
 - `web`: another [Next.js](https://nextjs.org/) app
-- `@repo/ui`: a stub React component library shared by both `web` and `docs` applications
+- `@repo/ui`: a stub React component library shared by both `web` and `docs` applications (🚀 powered by **Shadcn/UI** and **Tailwind CSS**)
 - `@repo/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
 
@@ -36,18 +57,18 @@ This Turborepo has some additional tools already setup for you:
 
 To build all apps and packages, run the following command:
 
-```
-cd my-turborepo
-pnpm build
+```sh
+cd turborepo-shadcn-ui-tailwindcss
+yarn build
 ```
 
 ### Develop
 
 To develop all apps and packages, run the following command:
 
-```
-cd my-turborepo
-pnpm dev
+```sh
+cd turborepo-shadcn-ui-tailwindcss
+yarn dev
 ```
 
 ### Remote Caching
@@ -56,8 +77,8 @@ Turborepo can use a technique known as [Remote Caching](https://turbo.build/repo
 
 By default, Turborepo will cache locally. To enable Remote Caching you will need an account with Vercel. If you don't have an account you can [create one](https://vercel.com/signup), then enter the following commands:
 
-```
-cd my-turborepo
+```sh
+cd turborepo-shadcn-ui-tailwindcss
 npx turbo login
 ```
 
@@ -65,7 +86,7 @@ This will authenticate the Turborepo CLI with your [Vercel account](https://verc
 
 Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your Turborepo:
 
-```
+```sh
 npx turbo link
 ```
 
