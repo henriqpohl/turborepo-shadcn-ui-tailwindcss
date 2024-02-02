@@ -3,7 +3,7 @@
 # Turborepo starter with Shadcn/UI & Tailwind CSS
 
 ![Static Badge](https://img.shields.io/badge/turborepo-1.11.1-orangered?logo=turborepo&link=https%3A%2F%2Fgithub.com%2Fvercel%2Fturbo%2Freleases%2Ftag%2Fv1.11.1)
-![Static Badge](https://img.shields.io/badge/yarn-1.22.21-blue?logo=yarn&link=https%3A%2F%2Fyarnpkg.com%2Fadvanced%2Fchangelog)
+![Static Badge](https://img.shields.io/badge/pnpm-8.15.1-gold?link=https%3A%2F%2Fgithub.com%2Fpnpm%2Fpnpm%2Freleases%2Ftag%2Fv8.15.1)
 ![GitHub repo size](https://img.shields.io/github/repo-size/henriqpohl/turborepo-shadcn-ui-tailwindcss?color=SeaGreen)
 ![GitHub Release](https://img.shields.io/github/v/release/henriqpohl/turborepo-shadcn-ui-tailwindcss?color=darksea)
 
@@ -11,10 +11,11 @@ Turborepo starter with Shadcn/UI & Tailwind CSS pre-configured for shared UI com
 
 - [Turborepo](https://turborepo.org/)
 - [Shadcn/UI](https://ui.shadcn.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- [Tailwind CSS](https://tailwindcss.com/)[text](<../repo/turborepo-shadcn-ui-tailwindcss - 0.2.2/apps/docs/README.md>)
+- [PNPM](https://pnpm.io/)
 
 > [!NOTE]
-> This example uses `yarn` as package manager.
+> This example uses `pnpm` as package manager.
 
 ## Using this example
 
@@ -28,7 +29,7 @@ Install dependencies:
 
 ```sh
 cd turborepo-shadcn-ui-tailwindcss
-yarn install
+pnpm install
 ```
 
 ## What's inside?
@@ -59,7 +60,7 @@ To build all apps and packages, run the following command:
 
 ```sh
 cd turborepo-shadcn-ui-tailwindcss
-yarn build
+pnpm build
 ```
 
 ### Develop
@@ -68,7 +69,7 @@ To develop all apps and packages, run the following command:
 
 ```sh
 cd turborepo-shadcn-ui-tailwindcss
-yarn dev
+pnpm dev
 ```
 
 ### Remote Caching
