@@ -73,58 +73,6 @@ importers:
         specifier: ^5.2.2
         version: 5.3.3
 
-  apps/web:
-    dependencies:
-      next:
-        specifier: ^14.0.3
-        version: 14.0.4(react-dom@18.2.0)(react@18.2.0)
-      react:
-        specifier: ^18.2.0
-        version: 18.2.0
-      react-dom:
-        specifier: ^18.2.0
-        version: 18.2.0(react@18.2.0)
-      ui:
-        specifier: workspace:*
-        version: link:../../packages/ui
-    devDependencies:
-      '@next/eslint-plugin-next':
-        specifier: ^14.0.2
-        version: 14.0.4
-      '@repo/eslint-config':
-        specifier: workspace:*
-        version: link:../../packages/eslint-config
-      '@repo/typescript-config':
-        specifier: workspace:*
-        version: link:../../packages/typescript-config
-      '@types/eslint':
-        specifier: ^8.56.2
-        version: 8.56.2
-      '@types/node':
-        specifier: ^20.11.16
-        version: 20.11.16
-      '@types/react':
-        specifier: ^18.2.53
-        version: 18.2.53
-      '@types/react-dom':
-        specifier: ^18.2.18
-        version: 18.2.18
-      autoprefixer:
-        specifier: ^10.4.16
-        version: 10.4.17(postcss@8.4.33)
-      eslint:
-        specifier: ^8.56.0
-        version: 8.56.0
-      postcss:
-        specifier: ^8.4.32
-        version: 8.4.33
-      tailwindcss:
-        specifier: ^3.3.6
-        version: 3.4.1
-      typescript:
-        specifier: ^5.2.2
-        version: 5.3.3
-
   packages/eslint-config:
     devDependencies:
       '@typescript-eslint/eslint-plugin':
