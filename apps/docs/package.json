@@ -21,7 +21,7 @@
     "@types/eslint": "^8.56.2",
     "@types/node": "^20.11.16",
     "@types/react": "^18.2.53",
-    "@types/react-dom": "^18.0.7",
+    "@types/react-dom": "^18.2.18",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.56.0",
     "postcss": "^8.4.32",
