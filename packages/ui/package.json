@@ -11,7 +11,7 @@
     "@turbo/gen": "^1.10.12",
     "@types/eslint": "^8.56.2",
     "@types/node": "^20.11.16",
-    "@types/react": "^18.2.0",
+    "@types/react": "^18.2.53",
     "@types/react-dom": "^18.2.0",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.56.0",
