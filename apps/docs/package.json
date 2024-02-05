@@ -9,13 +9,13 @@
     "lint": "eslint . --max-warnings 0"
   },
   "dependencies": {
-    "next": "^14.0.3",
+    "next": "^14.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "ui": "workspace:*"
   },
   "devDependencies": {
-    "@next/eslint-plugin-next": "^14.0.2",
+    "@next/eslint-plugin-next": "^14.1.0",
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
     "@types/eslint": "^8.56.2",
