@@ -4,9 +4,9 @@
     //"outDir": "dist"
     "baseUrl": ".",
     "paths": {
-      "@ui/*": ["./*"],
-      "@ui/components/ui*": ["./components/ui*"]
-    }    
+      "@ui/*": ["./src/*"],
+      "@ui/components/ui*": ["./src/components/ui/*"]
+    }
   },
   "include": ["."],
   "exclude": ["node_modules", "dist"]

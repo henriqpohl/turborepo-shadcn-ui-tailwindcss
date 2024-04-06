@@ -5,7 +5,7 @@ module.exports = {
     './pages/**/*.{ts,tsx}',
     './components/**/*.{ts,tsx}',
     './app/**/*.{ts,tsx}',
-    '../../packages/ui/components/**/*.{ts,tsx}',
+    '../../packages/ui/src/components/**/*.{ts,tsx}',
 	],
   theme: {
     container: {
