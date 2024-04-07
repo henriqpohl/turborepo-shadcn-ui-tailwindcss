@@ -3,7 +3,7 @@
 # Turborepo starter with Shadcn/UI & Tailwind CSS
 
 ![Static Badge](https://img.shields.io/badge/turborepo-1.13.2-orangered?logo=turborepo&link=https%3A%2F%2Fgithub.com%2Fvercel%2Fturbo%2Freleases%2Ftag%2Fv1.13.2)
-![Static Badge](https://img.shields.io/badge/pnpm-8.15.1-gold?link=https%3A%2F%2Fgithub.com%2Fpnpm%2Fpnpm%2Freleases%2Ftag%2Fv8.15.1)
+![Static Badge](https://img.shields.io/badge/pnpm-8.15.6-gold?link=https%3A%2F%2Fgithub.com%2Fpnpm%2Fpnpm%2Freleases%2Ftag%2Fv8.15.6)
 ![GitHub repo size](https://img.shields.io/github/repo-size/henriqpohl/turborepo-shadcn-ui-tailwindcss?color=SeaGreen)
 ![GitHub Release](https://img.shields.io/github/v/release/henriqpohl/turborepo-shadcn-ui-tailwindcss?color=darksea)
 
