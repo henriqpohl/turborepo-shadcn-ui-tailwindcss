@@ -8,24 +8,24 @@
   "devDependencies": {
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
-    "@turbo/gen": "^1.12.2",
-    "@types/eslint": "^8.56.2",
-    "@types/node": "^20.11.16",
-    "@types/react": "^18.2.53",
-    "@types/react-dom": "^18.2.18",
-    "autoprefixer": "^10.4.16",
-    "eslint": "^8.56.0",
-    "postcss": "^8.4.32",
-    "react": "^18.2.0",
-    "tailwindcss": "^3.3.6",
-    "typescript": "^5.2.2"
+    "@turbo/gen": "^2.0.3",
+    "@types/eslint": "^8.56.10",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^9.4.0",
+    "postcss": "^8.4.38",
+    "react": "^18.3.1",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.4.5"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
-    "clsx": "^2.0.0",
-    "lucide-react": "^0.322.0",
-    "tailwind-merge": "^2.1.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.390.0",
+    "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7"
   }
 }
