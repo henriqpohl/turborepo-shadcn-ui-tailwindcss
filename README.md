@@ -1,13 +1,19 @@
-[![image](https://res.cloudinary.com/dvgb6dadg/image/upload/v1707008177/turborepo-tailwindcss-shadcn-ui/cover-turborepo-project_ccvm77.png)](https://github.com/henriqpohl/turborepo-shadcn-ui-tailwindcss.git)
+[![image](https://res.cloudinary.com/dvgb6dadg/image/upload/v1719304335/turborepo-tailwindcss-shadcn-ui/cover-turborepo-project_vfha54.png)](https://github.com/henriqpohl/turborepo-shadcn-ui-tailwindcss.git)
 
-# Turborepo starter with Shadcn/UI & Tailwind CSS
+# 🚀 Turborepo starter NextJS with Shadcn/UI & Tailwind CSS
+
+<div align="center">
 
 ![Static Badge](https://img.shields.io/badge/turborepo-2.0.4-orangered?logo=turborepo&link=https%3A%2F%2Fgithub.com%2Fvercel%2Fturbo%2Freleases%2Ftag%2Fv2.0.4)
-![Static Badge](https://img.shields.io/badge/pnpm-9.4.0-gold?link=https%3A%2F%2Fgithub.com%2Fpnpm%2Fpnpm%2Freleases%2Ftag%2Fv9.4.0)
-![GitHub repo size](https://img.shields.io/github/repo-size/henriqpohl/turborepo-shadcn-ui-tailwindcss?color=SeaGreen)
-![GitHub Release](https://img.shields.io/github/v/release/henriqpohl/turborepo-shadcn-ui-tailwindcss?color=darksea)
+![Static Badge](https://img.shields.io/badge/shadcn%2Fui-1.0-181819?link=https%3A%2F%2Fgithub.com%2Fshadcn%2Fui)
+![Static Badge](https://img.shields.io/badge/4.0-blue?style=flat&logo=tailwindcss&label=tailwindcss&color=blue)
+![Static Badge](https://img.shields.io/badge/pnpm-9.4.0-orange?link=https%3A%2F%2Fgithub.com%2Fpnpm%2Fpnpm%2&logo=PNPM&2Freleases%2Ftag%2Fv9.4.0)
+![GitHub repo size](https://img.shields.io/github/repo-size/henriqpohl/turborepo-shadcn-ui-tailwindcss?color=green)
+![GitHub Release](https://img.shields.io/github/v/release/henriqpohl/turborepo-shadcn-ui-tailwindcss?color=gold)
 
-Turborepo starter with Shadcn/UI & Tailwind CSS pre-configured for shared UI components powered by:
+</div>
+
+Turborepo starter **NextJS** with **Shadcn/UI** & **Tailwind CSS** pre-configured for shared UI components powered by:
 
 - [Turborepo](https://turborepo.org/)
 - [Shadcn/UI](https://ui.shadcn.com/)
@@ -17,7 +23,7 @@ Turborepo starter with Shadcn/UI & Tailwind CSS pre-configured for shared UI com
 > [!NOTE]
 > This example uses `pnpm` as package manager.
 
-## Using this example
+## 📝 Using this example
 
 Clone the repository:
 
@@ -32,11 +38,11 @@ cd turborepo-shadcn-ui-tailwindcss
 pnpm install
 ```
 
-## What's inside?
+## 📦 What's inside?
 
 This Turborepo includes the following packages/apps:
 
-### Apps and Packages
+### Apps and Packages 
 
 - `docs`: a [Next.js](https://nextjs.org/) app
 - `@repo/ui`: a stub React component library shared by  applications inside of `apps` folder (🚀 powered by **Shadcn/UI** and **Tailwind CSS**)
@@ -53,7 +59,7 @@ This Turborepo has some additional tools already setup for you:
 - [ESLint](https://eslint.org/) for code linting
 - [Prettier](https://prettier.io) for code formatting
 
-### Build
+### 🏗️ Build
 
 To build all apps and packages, run the following command:
 
@@ -62,7 +68,7 @@ cd turborepo-shadcn-ui-tailwindcss
 pnpm build
 ```
 
-### Develop
+### 💻 Develop
 
 To develop all apps and packages, run the following command:
 
@@ -71,7 +77,7 @@ cd turborepo-shadcn-ui-tailwindcss
 pnpm dev
 ```
 
-### Remote Caching
+### 🌐 Remote Caching
 
 Turborepo can use a technique known as [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching) to share cache artifacts across machines, enabling you to share build caches with your team and CI/CD pipelines.
 
@@ -90,7 +96,7 @@ Next, you can link your Turborepo to your Remote Cache by running the following 
 npx turbo link
 ```
 
-## Useful Links
+## ℹ️ Useful Links
 
 Learn more about the power of Turborepo:
 
