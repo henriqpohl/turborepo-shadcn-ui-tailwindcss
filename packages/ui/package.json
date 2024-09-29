@@ -8,7 +8,7 @@
   "devDependencies": {
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
-    "@turbo/gen": "^2.0.14",
+    "@turbo/gen": "^2.1.2",
     "@types/eslint": "^9.6.1",
     "@types/node": "^22.7.4",
     "@types/react": "^18.3.10",
