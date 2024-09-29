@@ -1,6 +1,6 @@
 {
   "name": "turborepo-tailwind-shadcn-ui",
-  "version": "1.6.5",
+  "version": "1.8.1",
   "private": true,
   "license": "MIT",
   "scripts": {
