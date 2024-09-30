@@ -99,7 +99,7 @@ npx turbo link
 
 ## ℹ️ Useful Links
 
-Learn more about the power of Turborepo:
+Learn more about the power of **Turborepo**:
 
 - [Tasks](https://turbo.build/repo/docs/core-concepts/monorepos/running-tasks)
 - [Caching](https://turbo.build/repo/docs/core-concepts/caching)
@@ -107,3 +107,12 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+
+Learn more about **Shadcn/UI**:
+
+- [Documentation](https://ui.shadcn.com/docs)
+- [Components](https://ui.shadcn.com/docs/components/accordion)
+
+## 🐞 Found a Bug?
+
+Uh-oh, looks like you stumbled upon a bug? No worries, we're here to squash it! Just head over to our issues section on GitHub and let us know what's up.
