@@ -27,5 +27,12 @@
     "lucide-react": "^0.446.0",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7"
+  },
+  "exports": {
+    "./globals.css": "./src/styles/globals.css",
+    "./postcss.config": "./postcss.config.mjs",
+    "./tailwind.config": "./tailwind.config.ts",
+    "./lib/*": "./src/lib/*.ts",
+    "./components/*": "./src/components/p*.tsx"
   }
 }
