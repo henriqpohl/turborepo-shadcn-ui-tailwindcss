@@ -1,7 +1,7 @@
 import Image from "next/image"
 import { Button } from "@ui/components/button"
 
-export default function Page(): JSX.Element {
+export default function Home() {
   return (
     <main className="flex flex-col items-center justify-between min-h-screen p-24">
       <div className="flex flex-col items-center justify-between min-h-screen p-24 w-screen h-screen top-[0] absolute gradient blur-3xl opacity-30"></div>
